@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Akash Mehra
 
-🤖 Aspiring AI Engineer  
+🤖 Aspiring AI Engineer   
 💻 B.Tech Student | Machine Learning & Data Science Enthusiast  
 🚀 Passionate about building intelligent systems
 
