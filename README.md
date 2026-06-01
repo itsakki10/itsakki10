@@ -5,7 +5,7 @@
 
 *Building intelligent systems that move beyond notebooks and into the real world.*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Computer+Vision+%26+Deep+Learning+Engineer;Full-Stack+AI+Developer;Hackathon+Winner+%F0%9F%8F%86;B.Tech+CSE+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=Computer+Vision+%26+Deep+Learning+Engineer;Full-Stack+AI+Developer;Hackathon+Winner+%F0%9F%8F%86;B.Tech+CSE+2026)](https://github.com/itsakki10)
 
 </div>
 
